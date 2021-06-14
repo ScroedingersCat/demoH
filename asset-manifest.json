@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/demoH/static/css/main.d196dd06.chunk.css",
+    "main.js": "/demoH/static/js/main.9271426d.chunk.js",
+    "main.js.map": "/demoH/static/js/main.9271426d.chunk.js.map",
+    "runtime-main.js": "/demoH/static/js/runtime-main.ad440332.js",
+    "runtime-main.js.map": "/demoH/static/js/runtime-main.ad440332.js.map",
+    "static/css/2.cd0232ef.chunk.css": "/demoH/static/css/2.cd0232ef.chunk.css",
+    "static/js/2.147844d9.chunk.js": "/demoH/static/js/2.147844d9.chunk.js",
+    "static/js/2.147844d9.chunk.js.map": "/demoH/static/js/2.147844d9.chunk.js.map",
+    "index.html": "/demoH/index.html",
+    "static/css/2.cd0232ef.chunk.css.map": "/demoH/static/css/2.cd0232ef.chunk.css.map",
+    "static/css/main.d196dd06.chunk.css.map": "/demoH/static/css/main.d196dd06.chunk.css.map",
+    "static/js/2.147844d9.chunk.js.LICENSE.txt": "/demoH/static/js/2.147844d9.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/demoH/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad440332.js",
+    "static/css/2.cd0232ef.chunk.css",
+    "static/js/2.147844d9.chunk.js",
+    "static/css/main.d196dd06.chunk.css",
+    "static/js/main.9271426d.chunk.js"
+  ]
+}
